@@ -1,0 +1,3 @@
+F:/Github/ICPC_Fundamental_Sharif/Code/S1/cmake-build-debug/CMakeFiles/S1.dir
+F:/Github/ICPC_Fundamental_Sharif/Code/S1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Github/ICPC_Fundamental_Sharif/Code/S1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
